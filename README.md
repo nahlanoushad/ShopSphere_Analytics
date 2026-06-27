@@ -1,5 +1,5 @@
-<img width="1920" height="1024" alt="main dashboard" src="https://github.com/user-attachments/assets/03025592-0275-4ab9-954b-e25bca7e98a3" />
----
+
+*(<img width="1920" height="1024" alt="main dashboard" src="https://github.com/user-attachments/assets/03025592-0275-4ab9-954b-e25bca7e98a3" />)*
 ## 📊 ShopSphere Retail Analytics Dashboard
 
 A comprehensive **Power BI Business Intelligence Dashboard** built using a retail sales dataset containing approximately **120,000 transactions (2022–2024)**. This project transforms raw sales data into interactive dashboards that provide actionable business insights for executives and decision-makers.
