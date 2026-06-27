@@ -1,0 +1,22 @@
+StoreID,StoreName,City,Region,OpenedDate
+1,Seattle Store,Seattle,North,2018-02-05
+2,Minneapolis Store,Minneapolis,North,2020-04-17
+3,Boston Store,Boston,North,2019-12-13
+4,Detroit Store,Detroit,North,2018-06-28
+5,Houston Store,Houston,South,2020-02-29
+6,Atlanta Store,Atlanta,South,2020-04-03
+7,Miami Store,Miami,South,2015-04-02
+8,Dallas Store,Dallas,South,2019-09-18
+9,New York Store,New York,East,2018-05-27
+10,Philadelphia Store,Philadelphia,East,2018-04-18
+11,Washington Store,Washington,East,2019-02-04
+12,Charlotte Store,Charlotte,East,2017-08-11
+13,Los Angeles Store,Los Angeles,West,2019-03-05
+14,San Francisco Store,San Francisco,West,2018-06-30
+15,Phoenix Store,Phoenix,West,2015-10-15
+16,Denver Store,Denver,West,2015-12-23
+17,Chicago Store,Chicago,Central,2018-08-22
+18,Kansas City Store,Kansas City,Central,2020-11-19
+19,St. Louis Store,St. Louis,Central,2020-06-02
+20,Indianapolis Store,Indianapolis,Central,2016-09-15
+21,Online Channel,N/A,Online,2017-11-23

@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Brand,UnitCost,UnitPrice
+1001,Nova Laptop,Electronics,Nova,658.16,882.39
+1002,Acme Laptop,Electronics,Acme,537.12,929.99
+1003,Aurora Laptop,Electronics,Aurora,913.56,1492.59
+1004,Zenith Laptop,Electronics,Zenith,477.02,625.33
+1005,Pioneer Smartphone,Electronics,Pioneer,727.06,1247.21
+1006,Vertex Smartphone,Electronics,Vertex,846.13,1288.39
+1007,Summit Smartphone,Electronics,Summit,631.83,904.04
+1008,Acme Smartphone,Electronics,Acme,988.91,1723.89
+1009,Zenith Headphones,Electronics,Zenith,111.7,155.26
+1010,Aurora Headphones,Electronics,Aurora,271.95,358.0
+1011,Pioneer Headphones,Electronics,Pioneer,145.38,215.65
+1012,Lumen Headphones,Electronics,Lumen,133.51,189.84
+1013,Acme Monitor,Electronics,Acme,153.66,284.19
+1014,Aurora Monitor,Electronics,Aurora,130.19,187.55
+1015,Pioneer Monitor,Electronics,Pioneer,410.61,749.59
+1016,Vertex Monitor,Electronics,Vertex,274.43,377.34
+1017,Nova Tablet,Electronics,Nova,729.8,1379.61
+1018,Acme Tablet,Electronics,Acme,791.49,1435.14
+1019,Aurora Tablet,Electronics,Aurora,435.09,672.09
+1020,Lumen Tablet,Electronics,Lumen,775.58,1051.47
+1021,Aurora Blender,Home & Kitchen,Aurora,133.78,226.66
+1022,Nova Blender,Home & Kitchen,Nova,36.07,59.97
+1023,Lumen Blender,Home & Kitchen,Lumen,107.79,151.89
+1024,Zenith Blender,Home & Kitchen,Zenith,96.65,137.77
+1025,Pioneer Cookware Set,Home & Kitchen,Pioneer,104.13,132.34
+1026,Aurora Cookware Set,Home & Kitchen,Aurora,128.33,182.75
+1027,Zenith Cookware Set,Home & Kitchen,Zenith,99.08,184.58
+1028,Acme Cookware Set,Home & Kitchen,Acme,285.38,415.1
+1029,Lumen Vacuum,Home & Kitchen,Lumen,115.72,155.15
+1030,Pioneer Vacuum,Home & Kitchen,Pioneer,350.55,561.0
+1031,Aurora Vacuum,Home & Kitchen,Aurora,351.34,537.02
+1032,Summit Vacuum,Home & Kitchen,Summit,287.58,427.14
+1033,Zenith Coffee Maker,Home & Kitchen,Zenith,196.27,355.19
+1034,Vertex Coffee Maker,Home & Kitchen,Vertex,63.63,86.15
+1035,Pioneer Coffee Maker,Home & Kitchen,Pioneer,179.71,294.3
+1036,Acme Coffee Maker,Home & Kitchen,Acme,114.65,187.72
+1037,Lumen Air Fryer,Home & Kitchen,Lumen,195.64,246.01
+1038,Vertex Air Fryer,Home & Kitchen,Vertex,171.13,289.74
+1039,Zenith Air Fryer,Home & Kitchen,Zenith,138.97,197.81
+1040,Summit Air Fryer,Home & Kitchen,Summit,157.17,207.86
+1041,Summit T-Shirt,Apparel,Summit,38.52,70.08
+1042,Nova T-Shirt,Apparel,Nova,16.43,25.88
+1043,Pioneer T-Shirt,Apparel,Pioneer,13.72,25.29
+1044,Acme T-Shirt,Apparel,Acme,35.86,51.78
+1045,Pioneer Jeans,Apparel,Pioneer,68.54,120.36
+1046,Nova Jeans,Apparel,Nova,67.73,84.69
+1047,Zenith Jeans,Apparel,Zenith,49.17,62.08
+1048,Summit Jeans,Apparel,Summit,103.62,188.71
+1049,Vertex Jacket,Apparel,Vertex,197.43,368.31
+1050,Nova Jacket,Apparel,Nova,50.85,79.63
+1051,Acme Jacket,Apparel,Acme,47.8,83.38
+1052,Summit Jacket,Apparel,Summit,176.68,235.59
+1053,Lumen Sneakers,Apparel,Lumen,109.15,179.47
+1054,Vertex Sneakers,Apparel,Vertex,174.65,323.77
+1055,Nova Sneakers,Apparel,Nova,143.29,243.37
+1056,Zenith Sneakers,Apparel,Zenith,136.94,206.69
+1057,Aurora Dress,Apparel,Aurora,40.13,56.02
+1058,Pioneer Dress,Apparel,Pioneer,67.26,109.8
+1059,Vertex Dress,Apparel,Vertex,53.76,74.9
+1060,Summit Dress,Apparel,Summit,33.87,56.23
+1061,Pioneer Yoga Mat,Sports & Outdoors,Pioneer,13.54,19.02
+1062,Acme Yoga Mat,Sports & Outdoors,Acme,43.45,60.36
+1063,Summit Yoga Mat,Sports & Outdoors,Summit,16.62,30.88
+1064,Zenith Yoga Mat,Sports & Outdoors,Zenith,38.55,60.03
+1065,Lumen Dumbbell Set,Sports & Outdoors,Lumen,46.04,77.27
+1066,Summit Dumbbell Set,Sports & Outdoors,Summit,90.23,136.9
+1067,Pioneer Dumbbell Set,Sports & Outdoors,Pioneer,176.85,227.29
+1068,Nova Dumbbell Set,Sports & Outdoors,Nova,141.09,235.62
+1069,Acme Tent,Sports & Outdoors,Acme,330.21,436.22
+1070,Pioneer Tent,Sports & Outdoors,Pioneer,117.06,187.13
+1071,Aurora Tent,Sports & Outdoors,Aurora,99.06,135.64
+1072,Zenith Tent,Sports & Outdoors,Zenith,211.92,385.36
+1073,Nova Bicycle,Sports & Outdoors,Nova,187.94,357.0
+1074,Pioneer Bicycle,Sports & Outdoors,Pioneer,777.02,1460.68
+1075,Vertex Bicycle,Sports & Outdoors,Vertex,844.78,1522.0
+1076,Acme Bicycle,Sports & Outdoors,Acme,274.73,430.14
+1077,Pioneer Backpack,Sports & Outdoors,Pioneer,38.11,47.69
+1078,Summit Backpack,Sports & Outdoors,Summit,62.95,116.6
+1079,Lumen Backpack,Sports & Outdoors,Lumen,106.36,152.67
+1080,Acme Backpack,Sports & Outdoors,Acme,96.63,166.67
+1081,Lumen Perfume,Beauty,Lumen,54.39,70.06
+1082,Nova Perfume,Beauty,Nova,124.32,160.33
+1083,Summit Perfume,Beauty,Summit,67.34,86.37
+1084,Zenith Perfume,Beauty,Zenith,89.37,165.12
+1085,Zenith Skincare Set,Beauty,Zenith,104.84,135.72
+1086,Acme Skincare Set,Beauty,Acme,24.93,45.13
+1087,Vertex Skincare Set,Beauty,Vertex,59.19,110.21
+1088,Summit Skincare Set,Beauty,Summit,76.11,123.78
+1089,Acme Hair Dryer,Beauty,Acme,105.46,170.57
+1090,Vertex Hair Dryer,Beauty,Vertex,61.13,86.77
+1091,Lumen Hair Dryer,Beauty,Lumen,107.06,155.69
+1092,Pioneer Hair Dryer,Beauty,Pioneer,54.53,72.8
+1093,Vertex Makeup Kit,Beauty,Vertex,15.75,26.05
+1094,Pioneer Makeup Kit,Beauty,Pioneer,60.04,78.95
+1095,Zenith Makeup Kit,Beauty,Zenith,58.01,91.59
+1096,Acme Makeup Kit,Beauty,Acme,25.6,37.81
+1097,Nova Electric Razor,Beauty,Nova,52.61,94.27
+1098,Lumen Electric Razor,Beauty,Lumen,148.12,244.04
+1099,Zenith Electric Razor,Beauty,Zenith,197.77,331.28
+1100,Aurora Electric Razor,Beauty,Aurora,26.37,46.97
